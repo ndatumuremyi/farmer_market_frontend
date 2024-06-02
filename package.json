@@ -20,9 +20,7 @@
     "react-router-dom": "^6.23.1",
     "react-select": "^5.8.0",
     "react-toastify": "^10.0.5",
-    "secure-ls": "^1.2.6"
-  },
-  "devDependencies": {
+    "secure-ls": "^1.2.6",
     "@types/node": "^20.13.0",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
