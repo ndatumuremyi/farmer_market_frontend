@@ -1,4 +1,4 @@
-import jwtDecode from 'jwt-decode';
+import { jwtDecode } from 'jwt-decode';
 import Secure from './secureLs';
 import { Product } from '@/types/product.type';
 
